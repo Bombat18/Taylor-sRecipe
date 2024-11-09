@@ -27,7 +27,8 @@ git clone git@github.com:Bombat18/Taylor-sRecipe.git
 Move into the project folder:
 
 ```bash
-cd your-repository-name
+cd Taylor-sRecipe
+
 ```
 
 ### 3. Install Dependencies
