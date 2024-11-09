@@ -19,7 +19,7 @@ Follow these steps to get your development environment up and running.
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone git@github.com:Bombat18/Taylor-sRecipe.git
 ```
 
 ### 2. Navigate to the Project Directory
